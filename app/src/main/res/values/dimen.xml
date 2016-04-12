@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="jellyball_pullmax">130px</dimen>
+    <dimen name="jellyball_move_distance">260px</dimen>
+    <dimen name="jellyball_line_width">10px</dimen>
+</resources>
